@@ -1,0 +1,20 @@
+Need a header that prints "welcome to guess my number" 
+
+"Think of a number between 1 and 100 and I will guess it"
+
+confirm that the player has a number
+
+Need a random number as a starting point (maybe in the middle every time?) needs to be a bool number
+
+need a way to tell the computer if the number is correct or not
+
+then needs to tell computer if it is low or high
+
+needs to loop back around if low or if high, needs to print footer if it is correct
+
+Need a footer that says " I won! I will always beat you at this game!"
+
+
+First guess
+tries
+confirm number
