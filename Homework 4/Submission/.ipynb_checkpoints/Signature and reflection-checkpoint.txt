@@ -1,0 +1,16 @@
+This class was an awakening for me, I felt very overwhealmed most of the time beucase I feel that should have basic python as a prereq. This would be a good thing becuase most of the time spent at the beginning of the semester went towards learning the basics of computer programming. All in all, in this class I learned to be resourcefull, not give up when you dont understand somthing, and that big blocks of red error code means you get to learn somthing new. 
+
+I also feel that this class gave me the first understanding of where real valuations come from. It was a taste of the math required for learning everything about dirivitives. I belive that it expanded my ability to not be scared to try and answer problems. It taught me to use a iterative process to solve things step by step, instead of being frustrated that one solution does not give me the answer. 
+
+
+
+###LOG###
+We forgot to keep a perfect log during the time we worked on the project, However we all got together to code the project and understand what we were doing in each step.
+
+My group met on december 18 to go over the final project. We discussed the code we had written and worked on code as a group. 
+We also went over the project a few weeks ago to begin creating the pieces we would need to solve this problem. 
+
+
+I sign this document stating that I understand each problem and its solution. While I worked with a team, I know what the code does and why it does it.
+
+SIGNED: SPENCER POWELL
